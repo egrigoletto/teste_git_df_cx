@@ -1,9 +1,0 @@
-{
-  "name": "d6fac0d5-723a-4e4c-ba10-5fbf41f62122",
-  "displayName": "confirmar.artistas",
-  "parameters": [ {
-    "id": "artista",
-    "entityType": "@artista"
-  } ],
-  "priority": 500000
-}

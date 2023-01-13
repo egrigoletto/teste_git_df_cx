@@ -1,9 +1,0 @@
-{
-  "name": "136d3bf0-f8c5-478a-a053-93750af8365a",
-  "displayName": "redirecionar.musica",
-  "parameters": [ {
-    "id": "artista",
-    "entityType": "@artista"
-  } ],
-  "priority": 500000
-}

@@ -1,9 +1,0 @@
-{
-  "name": "8fc92b52-fc61-4474-ba5f-4c1f6fd727a5",
-  "displayName": "redirecionar.meu.pedido",
-  "parameters": [ {
-    "id": "numero_pedido",
-    "entityType": "@numero_pedido"
-  } ],
-  "priority": 500000
-}

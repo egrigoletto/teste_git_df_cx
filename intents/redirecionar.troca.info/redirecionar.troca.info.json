@@ -1,9 +1,0 @@
-{
-  "name": "ead43440-a50b-4a57-9203-120b870d1431",
-  "displayName": "redirecionar.troca.info",
-  "parameters": [ {
-    "id": "merchandise",
-    "entityType": "@merchandise"
-  } ],
-  "priority": 500000
-}
