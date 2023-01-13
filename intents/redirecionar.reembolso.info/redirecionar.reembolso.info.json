@@ -1,0 +1,9 @@
+{
+  "name": "e4e80959-7f55-4bc6-b6ad-7a2c439dcafa",
+  "displayName": "redirecionar.reembolso.info",
+  "parameters": [ {
+    "id": "merchandise",
+    "entityType": "@merchandise"
+  } ],
+  "priority": 500000
+}

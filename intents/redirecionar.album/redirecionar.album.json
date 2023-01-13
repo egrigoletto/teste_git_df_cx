@@ -1,0 +1,12 @@
+{
+  "name": "d6bcdae1-0cb6-4de4-b276-2cd2fece534d",
+  "displayName": "redirecionar.album",
+  "parameters": [ {
+    "id": "album",
+    "entityType": "@album"
+  }, {
+    "id": "merchandise",
+    "entityType": "@merchandise"
+  } ],
+  "priority": 500000
+}

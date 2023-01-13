@@ -1,0 +1,15 @@
+{
+  "name": "79db0efb-d71a-47be-a52b-1fae8540151c",
+  "displayName": "redirecionar.processo.pedido",
+  "parameters": [ {
+    "id": "merchandise",
+    "entityType": "@merchandise"
+  }, {
+    "id": "artista",
+    "entityType": "@artista"
+  }, {
+    "id": "tamanhos_roupa",
+    "entityType": "@tamanhos_roupa"
+  } ],
+  "priority": 500000
+}

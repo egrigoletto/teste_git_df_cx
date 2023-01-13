@@ -1,0 +1,46 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Posso mudar meu produto?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Eu quero trocar ",
+      "auto": true
+    }, {
+      "text": "um",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "CD",
+      "parameterId": "merchandise",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Posso trocar minha "
+    }, {
+      "text": "camiseta",
+      "parameterId": "merchandise",
+      "auto": true
+    }, {
+      "text": " para tamanho maior?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Eu querrro trocar meu item",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  } ]
+}

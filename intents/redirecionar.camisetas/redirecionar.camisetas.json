@@ -1,0 +1,12 @@
+{
+  "name": "42e47156-d0bc-46da-bbda-c2b59ff54a15",
+  "displayName": "redirecionar.camisetas",
+  "parameters": [ {
+    "id": "merchandise",
+    "entityType": "@merchandise"
+  }, {
+    "id": "artista",
+    "entityType": "@artista"
+  } ],
+  "priority": 500000
+}

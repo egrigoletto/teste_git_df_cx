@@ -1,0 +1,12 @@
+{
+  "name": "7c8402a8-1087-4b8a-9142-fa96886677ea",
+  "displayName": "redirecionar.produto.de.artista",
+  "parameters": [ {
+    "id": "artista",
+    "entityType": "@artista"
+  }, {
+    "id": "merchandise",
+    "entityType": "@merchandise"
+  } ],
+  "priority": 500000
+}

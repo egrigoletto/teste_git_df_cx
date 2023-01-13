@@ -1,0 +1,78 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Qual o preço",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "quanto custa",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Quanto cada produto custa?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Qual a diferença de preço?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Eu quero saber o preço de uma "
+    }, {
+      "text": "camiseta",
+      "parameterId": "merchandise",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Qual o precço ",
+      "auto": true
+    }, {
+      "text": "do",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "tour",
+      "auto": true
+    }, {
+      "text": " movie?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Quanbto custa ",
+      "auto": true
+    }, {
+      "text": "uma",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "camiseta",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  } ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "0b8bb7c2-7038-4a57-acde-cdb968030c8c",
+  "displayName": "redirecionar.meu.pedido.cancelar",
+  "parameters": [ {
+    "id": "numero_pedido",
+    "entityType": "@numero_pedido"
+  } ],
+  "priority": 500000
+}

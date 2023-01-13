@@ -1,0 +1,31 @@
+{
+  "name": "69704901-1c06-4a3c-9835-7f71d58d3bf0",
+  "displayName": "Atendimento_ao_cliente",
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Lamento, mas não compreendi.", "Desculpe, mas não compreendi.", "Infelizmente, não captei o que deseja.", "Não consegui compreender, desculpe." ]
+        },
+        "languageCode": "pt-br"
+      } ]
+    },
+    "name": "ef4316bc-a9bd-45b2-b23e-d3f7f029e77a"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Lamento, mas não compreendi.", "Desculpe, mas não compreendi.", "Infelizmente, não captei o que deseja.", "Não consegui compreender, desculpe." ]
+        },
+        "languageCode": "pt-br"
+      } ]
+    },
+    "name": "e22bfda9-0dc2-4f86-a218-de9093dc9c43"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_STANDARD",
+    "classificationThreshold": 0.30000001
+  }
+}

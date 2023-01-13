@@ -1,0 +1,31 @@
+{
+  "name": "b5fee619-dbc8-43d8-9675-78653d09076d",
+  "displayName": "Meu_pedido",
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Lamento, mas não compreendi.", "Desculpe, mas não compreendi.", "Infelizmente, não captei o que deseja.", "Não consegui compreender, desculpe." ]
+        },
+        "languageCode": "pt-br"
+      } ]
+    },
+    "name": "b4c8f10c-a424-4ae1-9cdc-bcb109cf5a29"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Lamento, mas não compreendi.", "Desculpe, mas não compreendi.", "Infelizmente, não captei o que deseja.", "Não consegui compreender, desculpe." ]
+        },
+        "languageCode": "pt-br"
+      } ]
+    },
+    "name": "5fbf3d8a-9f7a-4d17-b87f-f8149e69559b"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_STANDARD",
+    "classificationThreshold": 0.30000001
+  }
+}

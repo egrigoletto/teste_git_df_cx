@@ -1,0 +1,88 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Comprar músicas ",
+      "auto": true
+    }, {
+      "text": "do",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "G's N' Roses",
+      "parameterId": "artista",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Interessado no álbum da "
+    }, {
+      "text": "Alice googler",
+      "parameterId": "artista",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Música ",
+      "auto": true
+    }, {
+      "text": "do",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "goo fighters",
+      "parameterId": "artista",
+      "auto": true
+    }, {
+      "text": " por favor",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Me manda aí músicas ",
+      "auto": true
+    }, {
+      "text": "do",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "goo fighters",
+      "parameterId": "artista",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Estou interessado em música",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Quero comprar música",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Música",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  } ]
+}

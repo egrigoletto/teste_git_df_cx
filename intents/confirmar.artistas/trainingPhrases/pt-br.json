@@ -1,0 +1,35 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Ok, vamos comprar coisas",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Sim, eu gostaria de comprar merchandise da ",
+      "auto": true
+    }, {
+      "text": "alice googler",
+      "parameterId": "artista",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Sim, quero comprar alguma coisa",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Sim, quero comprar merchandise",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  } ]
+}

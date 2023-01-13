@@ -1,0 +1,76 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Músicas em ",
+      "auto": true
+    }, {
+      "text": "MP3",
+      "parameterId": "merchandise",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Me dá o "
+    }, {
+      "text": "CD",
+      "parameterId": "merchandise",
+      "auto": true
+    }, {
+      "text": " com os "
+    }, {
+      "text": "maiores sucessos",
+      "parameterId": "album"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Eu queria o "
+    }, {
+      "text": "álbum digital",
+      "parameterId": "merchandise",
+      "auto": true
+    }, {
+      "text": " dos "
+    }, {
+      "text": "maiores sucessos",
+      "parameterId": "album"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Album ",
+      "auto": true
+    }, {
+      "text": "ao vivo",
+      "parameterId": "album",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Sucessos",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Músicas",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Hits",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  } ]
+}

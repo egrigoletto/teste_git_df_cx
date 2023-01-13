@@ -1,0 +1,9 @@
+{
+  "name": "8096bac1-a038-4c31-946e-7dd89a5fcf71",
+  "displayName": "redirecionar.camiseta.tamanho",
+  "parameters": [ {
+    "id": "tamanhos_roupa",
+    "entityType": "@tamanhos_roupa"
+  } ],
+  "priority": 500000
+}

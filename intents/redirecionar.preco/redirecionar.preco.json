@@ -1,0 +1,9 @@
+{
+  "name": "1806d268-871f-4fc8-97a6-8de927d8c325",
+  "displayName": "redirecionar.preco",
+  "parameters": [ {
+    "id": "merchandise",
+    "entityType": "@merchandise"
+  } ],
+  "priority": 500000
+}

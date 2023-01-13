@@ -1,0 +1,23 @@
+{
+  "entities": [ {
+    "value": "Camiseta",
+    "synonyms": [ "camisa manga curta", "Camiseta", "manga curta", "peita" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Manga Longa",
+    "synonyms": [ "camisa manga longa", "Manga Longa" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Filme",
+    "synonyms": [ "DVD", "Filme", "Filmes", "Longa metragem", "Tour", "Tour Movie" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "Álbum digital",
+    "synonyms": [ "Álbum digital", "CD Digital", "mídia digital", "MP3" ],
+    "languageCode": "pt-br"
+  }, {
+    "value": "CD",
+    "synonyms": [ "CD", "Compact Disc", "Mídia física" ],
+    "languageCode": "pt-br"
+  } ]
+}

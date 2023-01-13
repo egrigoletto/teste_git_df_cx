@@ -1,0 +1,43 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Quando eu vou receber meu pedido?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Quanto tempo ",
+      "auto": true
+    }, {
+      "text": "um",
+      "auto": true
+    }, {
+      "text": " envio leva?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Quanto tempo demora ",
+      "auto": true
+    }, {
+      "text": "para",
+      "auto": true
+    }, {
+      "text": " chegar",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Quando vai chegar?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  } ]
+}

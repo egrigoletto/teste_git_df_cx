@@ -1,0 +1,145 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Posso comprar o ",
+      "auto": true
+    }, {
+      "text": "album digital",
+      "parameterId": "merchandise",
+      "auto": true
+    }, {
+      "text": " da ",
+      "auto": true
+    }, {
+      "text": "Google Dolls",
+      "parameterId": "artista",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Posso comprar o "
+    }, {
+      "text": "album digital",
+      "parameterId": "merchandise",
+      "auto": true
+    }, {
+      "text": " da "
+    }, {
+      "text": "Alice Googler",
+      "parameterId": "artista",
+      "auto": true
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Eu quero comprar ",
+      "auto": true
+    }, {
+      "text": "uma"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "camiseta",
+      "parameterId": "merchandise",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "M",
+      "parameterId": "tamanhos_roupa",
+      "auto": true
+    }, {
+      "text": " da ",
+      "auto": true
+    }, {
+      "text": "Alice Googler",
+      "parameterId": "artista",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Posso comprar ",
+      "auto": true
+    }, {
+      "text": "uma"
+    }, {
+      "text": " música",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Quero comprar alguma coisa",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Eu quero ",
+      "auto": true
+    }, {
+      "text": "um"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "CD",
+      "parameterId": "merchandise",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Posso comprar ",
+      "auto": true
+    }, {
+      "text": "um"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "álbum digital",
+      "parameterId": "merchandise",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Eu estou interessado ",
+      "auto": true
+    }, {
+      "text": "numa",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "camiseta",
+      "parameterId": "merchandise",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Filme",
+      "parameterId": "merchandise",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  } ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "6e458f2d-80f0-4f03-a303-f7b593ad9589",
+  "displayName": "redirecionar.meu.pedido.status",
+  "parameters": [ {
+    "id": "numero_pedido",
+    "entityType": "@numero_pedido"
+  } ],
+  "priority": 500000
+}

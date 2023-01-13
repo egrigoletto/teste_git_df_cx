@@ -1,0 +1,68 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Músicas em ",
+      "auto": true
+    }, {
+      "text": "MP3",
+      "parameterId": "merchandise",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Me dê o ",
+      "auto": true
+    }, {
+      "text": "CD",
+      "parameterId": "merchandise",
+      "auto": true
+    }, {
+      "text": " de ",
+      "auto": true
+    }, {
+      "text": "greatest hits",
+      "parameterId": "album",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Eu quero o "
+    }, {
+      "text": "álbum digital",
+      "parameterId": "merchandise",
+      "auto": true
+    }, {
+      "text": " dos "
+    }, {
+      "text": "maiores sucessos",
+      "parameterId": "album"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Eu quero o álbum dos maiores sucessos",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Sucessos",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  }, {
+    "parts": [ {
+      "text": "Hits",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "pt-br"
+  } ]
+}
